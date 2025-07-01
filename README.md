@@ -7,7 +7,7 @@ I love pi-hole but I wanted an easy way to launch/install locally so I made this
 ### Requirments: 
 Running Mac OS and Docker Desktop installed
 
-Make sure this is the dns for the wifi your connecting to for this to work. (In System Settings)
+#### Make sure this is the dns for the wifi your connecting to for this to work. (In System Settings)
 `127.0.0.1`
 
 ### How to make app

@@ -1,6 +1,8 @@
 # pi-hole-app
 I love pi-hole but I wanted a easy way to launch/install it to run locally in docker so I made this
 
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/321f6e9d-781a-4049-a746-f2b791099499" />
+
 
 ### Requirments: 
 Running Mac OS and Docker Desktop installed

@@ -57,7 +57,8 @@ pi-hole data will be located at
 `~/pihole`
 
 The password will randomly created at launch and be within the logs
-To view the docker logs -> to see the generated pasword after first launch
+To view the docker logs 
+-> to see the generated pasword after first launch
 ```bash
 docker logs pihole
 ```
